@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "Verify Before You Believe. Advanced AI-powered multimodal misinformation detection, interactive evidence graph, and credibility intelligence platform supporting all Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
